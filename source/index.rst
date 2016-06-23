@@ -10,12 +10,10 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
-   
-   intro<intro>
-   help<help>
-   about<about>
-
-This is a test.
+    
+   litho
+   python
+   algo
 
 
 Indices and tables
